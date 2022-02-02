@@ -8,7 +8,7 @@ A Classic card matching game
 4. Remember to keep the *Resource* folder in the same directory with the ```executable```
 
 ## Requirements
-1. OS: ***Windows ONLY***
+1. OS: ***Windows 7 or Above***
 2. Requires Microsoft .NET Framework 4.7.2
 3. Download it from [Here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
 
